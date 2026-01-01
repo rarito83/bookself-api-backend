@@ -25,7 +25,7 @@ BookShelf API dibangun dengan prinsip-prinsip backend modern, antara lain:
 - Response API yang konsisten dan terstruktur
 - Kode modular dan mudah dikembangkan
 - Siap diintegrasikan dengan database (PostgreSQL / MongoDB)
-- Automatisasi Testing menggunakan POSTMAN
+- Skenario Automatisasi Testing menggunakan POSTMAN
 
 🎯 Tujuan Pengembangan
 BookShelf API dirancang sebagai:
